@@ -32,3 +32,7 @@ def usuario(nome):
 # que tenham um inteiro no segmento dinâmico id.Por exemplo,/user/1123. O Flask aceita
 #os tipos string,int,float e path para rotas.O tipo path é um tipo string.
 
+
+
+#Jamis ativar o modo de dburação em servidor de produção.por questões de segurança
+
